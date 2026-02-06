@@ -2,9 +2,9 @@
 1. You MAY mod Stick War 2, Stick War 1, and old versions of Stick Empires.
 2. You may NOT claim ownership of the Stick War series and code, in part or full.
 3. You may NOT claim ownership of any Stick War mod you have not created. This includes, but is not limited to:
-  - Custom Music.
-  - Custom Assets.
-  - Custom Story.
+    - Custom Music.
+    - Custom Assets.
+    - Custom Story.
 4. You may NOT create malware or other software designed to cause harm or damage.
 5. You may NOT create mods for Stick Empires that allow you to cheat or give you an unfair advantage in the multiplayer game.
 6. You may NOT modify other people's mods without permission.
