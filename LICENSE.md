@@ -1,4 +1,11 @@
 # TLDR:
+
+## Copyright & Warranty:
+Stick War and Stick Empires is made by JASON WHITHAM (CRAZYJAY), BROCK WHITE (BROCKEMON), WINSTON ZHANG, ELI PIILONEN (2DARRAY).
+All rights reserved to the original authors.
+There is NO WARRANTY whatsoever when it comes to mods hosted here.
+
+## Actual Terms:
 1. You MAY mod Stick War 2, Stick War 1, and old versions of Stick Empires.
 2. You may NOT claim ownership of the Stick War series and code, in part or full.
 3. You may NOT claim ownership of any Stick War mod you have not created. This includes, but is not limited to:
@@ -11,7 +18,8 @@
 7. Only upload your own work using pull requests, thanks.
 
 
-When it comes to modding Stick Empires multiplayer, thanks.
+When it comes to modding Stick Empires multiplayer, consult the Stick Empires terms of service (attached below). Thanks.
+
 
 Stick Empires Terms Of Service
 ---
