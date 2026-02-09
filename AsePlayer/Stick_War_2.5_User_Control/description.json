@@ -8,6 +8,7 @@
 		"additional_credits": "Special Thanks:\nPretty Good Source Code: Brock White\nPretty Good Modding Reference Code: AsePlayer\nFree Flash Decompiler: JPEXS (github.com/jindrapetrik/jpexs-decompiler)\nBeta Testers: Phaxtolgia, Reknel, Xecute, 75g",
 		"bugs": "",
 		"base": "Stick War 2",
+		"version": "1.0",
 		"type": "Singleplayer",
 		"empire": "Order",
 		"levels": "14",

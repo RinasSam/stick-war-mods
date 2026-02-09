@@ -8,6 +8,7 @@
 		"additional_credits": "New Zealand for Pukekos.\nSunlust Map 31 description for inspiration.",
 		"bugs": "Restarting a match causes the screen to bug out. Restart the entire SWF instead.",
 		"base": "PAP (based on SE 2.29)",
+		"version": "1.0",
 		"type": "Singleplayer",
 		"empire": "Order",
 		"levels": "1",
